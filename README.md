@@ -53,10 +53,13 @@ Example:
 Example:
 ```sh
 # Solve fizzbuzz with TypeScript
-./cqc.ts ch/fizzbuzz 'tsx sol/ts/fizzbuzz'
+./cqc.ts fizzbuzz 'tsx sol/ts/fizzbuzz'
 
 # Solve fizzbuzz with fish
-./cqc.ts ch/fizzbuzz 'fish sol/fish/fizzbuzz.fish'
+./cqc.ts fizzbuzz 'fish sol/fish/fizzbuzz.fish'
+
+# Solve fizzbuzz with python
+./cqc.ts fizzbuzz 'python sol/py/fizzbuzz.py'
 ```
 
 ## Challenge Definitions
