@@ -2,7 +2,7 @@
 
 A local, offline, minimal, programming challenge system that supports arbitrary languages.
 
-![Screenshot]('./_doc/screenshot.png')
+![Screenshot](./_doc/screenshot.png)
 
 ## Setup 
 
