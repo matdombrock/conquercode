@@ -61,7 +61,7 @@ Example:
 
 ## Challenge Definitions
 
-Challenges are defined in the `./ch/` directory as markdown files. 
+Challenges are defined in the `./challenge/` directory as markdown files. 
 
 > [!NOTE]
 > The markdown itself is treated as *structured data* and is parsed to extract the cases for the challenge. This is the *sole* source of challenge data. 
